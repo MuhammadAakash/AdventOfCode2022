@@ -22,3 +22,6 @@ part2_conditions = {
 p2 = 0
 for round in rounds:
     p2 += part2_conditions[round]
+
+print("part 1 is :", p1)
+print("part 2 is :", p2)
